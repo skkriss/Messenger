@@ -1,3 +1,4 @@
+**Travis CI :**   [![Build Status](https://travis-ci.org/skkriss/Messenger.svg?branch=master)](https://travis-ci.com/skkriss/Messenger)
 
 **REGUŁY ODDAWANIA PROJEKTU**
 
