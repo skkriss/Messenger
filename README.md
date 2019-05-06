@@ -1,5 +1,7 @@
 **Travis CI :**   [![Build Status](https://travis-ci.org/skkriss/Messenger.svg?branch=master)](https://travis-ci.com/skkriss/Messenger)
 
+**CodeClimate** [![Maintainability](https://api.codeclimate.com/v1/badges/7948b0d7814b7e7113cc/maintainability)](https://codeclimate.com/github/skkriss/Messenger/maintainability)
+
 **REGUŁY ODDAWANIA PROJEKTU**
 
 Wybieramy jedno z poniższych zadań. Zadania różnią się poziomem trudności i są inaczej punktowane.
